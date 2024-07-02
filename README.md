@@ -5,14 +5,13 @@
 This project automates the process of creating GIFs from video files. It extracts audio, detects silences, transcribes them, and generates high-quality GIFs with text overlays. Powered by Python with libraries like moviepy, pydub, and Whisper for transcription, it simplifies the creation of engaging GIFs from your video content. Perfect for social media, tutorials, and presentations.
 ## Demo
 
-![word_1](https://github.com/diwansinghchauhan/Book-recommender-System/assets/147912878/51960eaa-d864-4e6c-8c35-d6f5ba0abab8)
+![word_9](https://github.com/diwansinghchauhan/Creating-Automatic-GIFs-from-Videos/assets/147912878/4a7807b7-30dd-42d0-9095-882f41741124)
 
-![word_3](https://github.com/diwansinghchauhan/Book-recommender-System/assets/147912878/01c08076-d834-47fc-a5af-ff450b459753)
+![word_1](https://github.com/diwansinghchauhan/Creating-Automatic-GIFs-from-Videos/assets/147912878/2dde9b21-8f27-4143-a94b-6bff4008545e)
 
-![word_6](https://github.com/diwansinghchauhan/Book-recommender-System/assets/147912878/04e75fe9-7d07-499c-a4e5-97a970e7f980)
+![word_2](https://github.com/diwansinghchauhan/Creating-Automatic-GIFs-from-Videos/assets/147912878/4eba9380-5c82-4c45-8413-990af50f5ac6)
 
-
-![word_13](https://github.com/diwansinghchauhan/Book-recommender-System/assets/147912878/c60c1677-96d2-4e33-9b62-c529ba52b44d)
+![word_5](https://github.com/diwansinghchauhan/Creating-Automatic-GIFs-from-Videos/assets/147912878/e5930990-2163-4c08-a126-2e503d3e7bac)
 
 
 
